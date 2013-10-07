@@ -5,12 +5,11 @@ themes = (
             ('cerulean', 'Cerulean'),
             ('cosmo', 'Cosmo'),
             ('cyborg', 'Cyborg'),
+            ('flatly', 'Flatly'),
             ('journal', 'Journal'),
             ('readable', 'Readable'),
             ('simplex', 'Simplex'),
             ('slate', 'Slate'),
-            ('spruce', 'Spruce'),
-            ('superhero', 'Superhero'),
             ('united', 'United'))
 
 for id, name in themes:
