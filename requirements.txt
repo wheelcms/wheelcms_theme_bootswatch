@@ -1,5 +1,5 @@
 twotest
-stracks_api
+stracks_api==0.2dev
 south
 django-haystack==1.2.7
 django-taggit
